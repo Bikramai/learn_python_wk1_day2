@@ -27,3 +27,35 @@ print( "SSS   L")
 print("    S  L")
 print("S   S  L")
 print(" SSS   LLLLL")
+
+
+print( "SSS   L")
+print("S   S  L")
+print("S      L")
+print( "SSS   L")
+print("    S  L")
+print("S   S  L")
+print(" SSS   LLLLL")
+
+# Bikram Phurumbo
+# I love to travel! 
+
+name = """
+B BBB   B  B    B  BBBB       B      B     B
+B    B  B  B  B    B   B     B  B    B B B B
+B BBB   B  B B     BBB      BBBBBB   B  B  B
+B    B  B  B  B    B  B    B      B  B     B
+B BBB   B  B    B  B    B B        B B     B
+"""
+
+print(name)
+
+name = """
+ PPPP
+P    P
+P PPP
+P    
+P 
+"""
+
+print(name)
